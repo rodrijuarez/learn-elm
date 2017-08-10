@@ -11,6 +11,7 @@
 ## Contents
 
 - [Resources](#resources)
+- [Courses](#courses)
 
 ---
 
@@ -18,3 +19,7 @@
 
 - [Official introduction to Elm](https://guide.elm-lang.org)
 - [Design guidelines](http://package.elm-lang.org/help/design-guidelines)
+
+## Courses
+
+ - [Start Using Elm to Build Web Applications (Egghead)](https://egghead.io/courses/start-using-elm-to-build-web-applications)
