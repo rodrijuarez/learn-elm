@@ -12,6 +12,7 @@
 
 - [Resources](#resources)
 - [Courses](#courses)
+- [Books](#books)
 
 ---
 
@@ -23,3 +24,7 @@
 ## Courses
 
  - [Start Using Elm to Build Web Applications (Egghead)](https://egghead.io/courses/start-using-elm-to-build-web-applications)
+ 
+## Books
+
+ - [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
