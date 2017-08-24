@@ -12,6 +12,7 @@
 
 - [Resources](#resources)
 - [Courses](#courses)
+- [Books](#books)
 
 ---
 
@@ -19,6 +20,10 @@
 
 - [Official introduction to Elm](https://guide.elm-lang.org)
 - [Design guidelines](http://package.elm-lang.org/help/design-guidelines)
+
+## Books
+
+- [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 
 ## Courses
 
